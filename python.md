@@ -1,4 +1,4 @@
-New and Unsorted:
+#### New and Unsorted:
 
 Grant Jenks - Python Sorted Collections - PyCon 2016 https://www.youtube.com/watch?v=7z2Ki44Vs4E
 Ashwini Oruganti - Dispelling the 'Genius Programmer' myth through code review - PyCon 2016 - https://www.youtube.com/watch?v=RR5XHwQB9XU
@@ -16,27 +16,26 @@ Brett Slatkin - Refactoring Python: Why and how to restructure your code - PyCon
 https://www.youtube.com/watch?v=xCE8qaiQylU
 Куда класть исходники / Григорий Петров [Python Meetup 29.05.2015]
 SQLAlchemy и возможности PostgreSQL / Дмитрий Кукушкин [Python Meetup 25.03.2016] https://www.youtube.com/watch?v=H4QRFgeiRd4
-GIT workflow
 
 
-Python GC
+#### Python GC
 37 мин	http://www.youtube.com/watch?v=ZxvwZ4fX_qE - В. Синицын - Python: управление памятью
 34 мин	http://www.youtube.com/watch?v=XwpUQX_8rmY - К.Лопухин - На что уходит память?
 45 мин http://www.youtube.com/watch?v=6Iw6n43mrVI - Garbage collector and a bit of memory management
 
-Python GIL
+#### Python GIL
 56 мин	http://www.youtube.com/watch?v=AWX4JnAnjBE - GIL в Python: зачем он нужен и как с этим жить
 
-Python decorators:
+#### Python decorators:
 31 мин  https://www.youtube.com/watch?v=7jGtDGxgwEY Graham Dumpleton: Advanced methods for creating decorators - PyCon 2014
 
 
-Python generators
+#### Python generators
 46 мин  http://www.youtube.com/watch?v=-E1V24zZJrs Знай и люби свой yield. Корутины и генераторы за гранью for loop-Александр Кошкин
 3.50ч	http://www.youtube.com/watch?v=D1twn9kLmYg - David Beazley: Generators: The Final Frontier - PyCon 2014
 
 
-Python Async
+#### Python Async
 		http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5
 47 мин	http://www.youtube.com/watch?v=9WV7juNmyE8 - A. Jesse Jiryu Davis: What Is Async, How Does It Work, And When Should I Use It? - PyCon 2014
 21 мин	http://www.youtube.com/watch?v=BhqeJGTji2I - asyncio в Python. Как устроено и зачем нужно?
@@ -44,7 +43,7 @@ Python Async
 43 мин	http://www.youtube.com/watch?v=Ooi5ECECwkA - PuConRu - PEP 3156 — стандарт на асинхронные операции в Питоне
 
 
-Python Meta:
+#### Python Meta:
 		http://faingezicht.com/projects/2016/04/26/python-black-magic/
 		https://habrahabr.ru/post/62203/
 		https://www.python.org/download/releases/2.3/mro/
@@ -52,7 +51,7 @@ Python Meta:
 27 мин	http://www.youtube.com/watch?v=OCDbLcCB-uA - Craig de Stigter: Intro to Metaclasses
 
 
-Python optimization:
+#### Python optimization:
 55 мин	http://www.youtube.com/watch?v=JhixzgVpmdM - Dictionary в Python. По мотивам Objects/dictnotes.txt
 60 мин 	http://www.youtube.com/watch?v=e08kOj2kISU - How to Speed up a Python Program 114,000 times.
 25 мин	http://www.youtube.com/watch?v=_AEJHKGk9ns - Ned Batchelder - Facts and Myths about Python names and values - PyCon 2015
@@ -62,7 +61,7 @@ Python optimization:
 34 мин	http://www.youtube.com/watch?v=8ybfH6cglfs - Профилирование и отладка Django
 
 
-Python concurrency:
+#### Python concurrency:
 31 мин	http://www.youtube.com/watch?v=CWmq-jtkemY - Brett Slatkin: Fan-in and Fan-out: The crucial components of concurrency - PyCon 2014
 47 мин	http://www.youtube.com/watch?v=ys8lW8eQaJQ - David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015
 16 мин	http://www.youtube.com/watch?v=CObboy8XzaM - Medhat Gayed: Concurrent Programming using multiprocessing
@@ -72,11 +71,11 @@ Python concurrency:
 
 
 
-Python data structures and std Lib:
+#### Python data structures and std Lib:
 38 мин	http://www.youtube.com/watch?v=fYlnfvKVDoM - Brandon Rhodes: All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014
 
 
-Python packaging and deployment:
+#### Python packaging and deployment:
 	: Читать Debian Packaging Policy - там написано куда что класть
 	
 20 мин	http://www.youtube.com/watch?v=Spu3NoX1q3k - Сборка Python-проекта
@@ -85,7 +84,7 @@ Python packaging and deployment:
 36 мин  http://www.youtube.com/watch?v=o-UbWsO9rZk - Ionel Cristian Mărieș - Less known packaging features and tricks
 
 
-Python TESTING:
+#### Python TESTING:
 
 Про тестирование 1 доклад про pytest где рассказывается про фикстуры. 
 про тестирование джанги покопаться в АТСке - там есть интересные примеры
@@ -102,23 +101,23 @@ Python TESTING:
 28 мин	http://www.youtube.com/watch?v=GpvCSkxLiZo - A. Jesse Jiryu Davis - Eventually Correct: Testing Async Apps - PyCon 2015
 
 
-Python Api Building:
+#### Python Api Building:
 45 мин	http://www.youtube.com/watch?v=pZYRC8IbCwk - Miguel Grinberg - Is Your REST API RESTful? - PyCon 2015
 
-Python code:
+#### Python code:
 41 мин	http://www.youtube.com/watch?v=-SRUctRR_4s - Комментирование исходников
 52 мин	http://www.youtube.com/watch?v=wf-BqAjZb8M - Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015
 30 мин	http://www.youtube.com/watch?v=P0pIW5tJrRM - Clayton Parker - So you think you can PDB? - PyCon 2015
 43 мин  http://www.youtube.com/watch?v=vxBLexXf2hM - Контроль за качеством кода-Кирилл Борисов
 
 
-Pythom Alembic:
+#### Pythom Alembic:
 30 мин	http://www.youtube.com/watch?v=_ZdqwCr4c7Q - Selena Deckelmann: Sane schema migrations with Alembic and SQLAlchemy - PyCon 2014
 	
-Supervisor:
+#### Supervisor:
 29 мин	http://www.youtube.com/watch?v=p0iQfT85IvM - Chris McDonough - Using Supervisor For Fun And Profit - PyCon 2015
 
-Project Management:
+#### Project Management:
 40 мин  https://www.youtube.com/watch?v=hdTpLLby-dQ - Основы управления проектами с использованием issue tracker на примере Jira
 
 
