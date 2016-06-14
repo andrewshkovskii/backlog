@@ -1,14 +1,32 @@
 #### New and Unsorted:
 
 Grant Jenks - Python Sorted Collections - PyCon 2016 https://www.youtube.com/watch?v=7z2Ki44Vs4E
+
+
 Ashwini Oruganti - Dispelling the 'Genius Programmer' myth through code review - PyCon 2016 - https://www.youtube.com/watch?v=RR5XHwQB9XU
+
+
 Chelsea Voss - Oneliner-izer: An Exercise in Constrained Coding - PyCon 2016 - https://www.youtube.com/watch?v=DsUxuz_Rt8g
+
+
 Elana Hashman - Teaching Python: The Hard Parts - PyCon 2016 - https://www.youtube.com/watch?v=CjYEpVNbM-s
+
+
 Glyph - Shipping Software To Users With Python - PyCon 2016 - https://www.youtube.com/watch?v=5BqAeN-F9Qs
+
+
 Geoff Gerrietts - Diving into the Wreck: a postmortem look at real-world performance - PyCon 2016 - https://www.youtube.com/watch?v=yHpy4Khx0Ds
+
+
 Manuel Ebert - Putting 1 million new words into the dictionary - PyCon 2016 - https://www.youtube.com/watch?v=sum5Hq2FTsw
+
+
 David Baumgold - Prototyping New APIs with Flask - PyCon 2016 - https://www.youtube.com/watch?v=6RdZNiyISVU
+
+
 Craig Kerstiens - Postgres present and future - PyCon 2016 - https://www.youtube.com/watch?v=rYSSX8mdbMk
+
+
 Brett Slatkin - Refactoring Python: Why and how to restructure your code - PyCon 2016 - https://www.youtube.com/watch?v=d46PjvFki38
 
 
